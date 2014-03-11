@@ -7,6 +7,8 @@ Links to all projects completed by our soldiers..
  - [UWFormula Donate](http://donate.uwformula.com)
  - [Bottle](http://trybottle.com)
  - [TyOverby -- Pipe](https://github.com/TyOverby/Pipe)
+ - Music visualizer
+ - Programming notes
 
 ## personal websites
  - [granttimmerman.com](http://www.granttimmerman.com)
